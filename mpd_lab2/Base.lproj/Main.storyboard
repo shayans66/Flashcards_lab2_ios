@@ -69,7 +69,11 @@
                     </view>
                     <toolbarItems/>
                     <navigationItem key="navigationItem" id="oJq-QB-TP9">
-                        <barButtonItem key="leftBarButtonItem" title="Cancel" id="gC8-2E-KuC"/>
+                        <barButtonItem key="leftBarButtonItem" title="Cancel" id="gC8-2E-KuC">
+                            <connections>
+                                <action selector="didTapOnCancel:" destination="04B-9Z-ji2" id="cmW-IP-3au"/>
+                            </connections>
+                        </barButtonItem>
                     </navigationItem>
                     <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
                 </viewController>
