@@ -15,6 +15,7 @@
 		E4923F1925FC9CED00D10E09 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4923F1725FC9CED00D10E09 /* LaunchScreen.storyboard */; };
 		E4923F2425FC9CED00D10E09 /* mpd_lab2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4923F2325FC9CED00D10E09 /* mpd_lab2Tests.swift */; };
 		E4923F2F25FC9CED00D10E09 /* mpd_lab2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4923F2E25FC9CED00D10E09 /* mpd_lab2UITests.swift */; };
+		E4923F4025FCAACF00D10E09 /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4923F3F25FCAACF00D10E09 /* CreationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E4923F2A25FC9CED00D10E09 /* mpd_lab2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mpd_lab2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4923F2E25FC9CED00D10E09 /* mpd_lab2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mpd_lab2UITests.swift; sourceTree = "<group>"; };
 		E4923F3025FC9CED00D10E09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E4923F3F25FCAACF00D10E09 /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				E4923F0E25FC9CEB00D10E09 /* SceneDelegate.swift */,
 				E4923F1025FC9CEB00D10E09 /* ViewController.swift */,
 				E4923F1225FC9CEB00D10E09 /* Main.storyboard */,
+				E4923F3F25FCAACF00D10E09 /* CreationViewController.swift */,
 				E4923F1525FC9CED00D10E09 /* Assets.xcassets */,
 				E4923F1725FC9CED00D10E09 /* LaunchScreen.storyboard */,
 				E4923F1A25FC9CED00D10E09 /* Info.plist */,
@@ -261,6 +264,7 @@
 				E4923F1125FC9CEB00D10E09 /* ViewController.swift in Sources */,
 				E4923F0D25FC9CEB00D10E09 /* AppDelegate.swift in Sources */,
 				E4923F0F25FC9CEB00D10E09 /* SceneDelegate.swift in Sources */,
+				E4923F4025FCAACF00D10E09 /* CreationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
