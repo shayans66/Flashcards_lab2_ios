@@ -67,7 +67,11 @@
                         <viewLayoutGuide key="safeArea" id="1nn-68-k4I"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <navigationItem key="navigationItem" id="oJq-QB-TP9"/>
+                    <toolbarItems/>
+                    <navigationItem key="navigationItem" id="oJq-QB-TP9">
+                        <barButtonItem key="leftBarButtonItem" title="Cancel" id="gC8-2E-KuC"/>
+                    </navigationItem>
+                    <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="V5P-7A-MEf" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
