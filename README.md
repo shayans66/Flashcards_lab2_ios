@@ -8,7 +8,7 @@ You start with the question/answer screen, where you can click on the question t
 ### App Walk-though
 gif is here
 
-<img src="https://i.imgur.com/IIzgNMS.gif" width=200><br>
+<img src="https://i.imgur.com/O0dShCL.gif" width=200><br>
 
 
 ## Required
